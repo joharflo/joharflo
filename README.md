@@ -1,6 +1,6 @@
 ## Hi there!!!!!  👋
 
-[![My Skills](https://skillicons.dev/icons?i=aws&perline=3)](https://skillicons.dev)
+
 
 
 <p align="center">
