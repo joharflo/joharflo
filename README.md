@@ -1,6 +1,4 @@
-## Associate of Science in Informatics. Specialist in Database Management and Security. CompTIA Security+ and AWS Certified Solutions Architect. 20 years of programming experience in technologies such as PHP, Java, Python, and JavaScript; database administration in MySQL, PostgreSQL, and Oracle.
-
-
+### I hold an Associate of Science in Informatics with a specialization in Database Management and Security. I am certified in CompTIA Security+ and as an AWS Certified Solutions Architect. My programming expertise spans PHP, Java, Python, and JavaScript, and I have experience in administering MySQL, PostgreSQL, and Oracle databases.
 
 
 
